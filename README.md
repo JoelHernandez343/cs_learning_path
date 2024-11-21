@@ -1,3 +1,7 @@
+# description
+This is a proposal for a cs learning path of basic knowledge
+The :bangbang: mark is for important or desirable topics
+
 # theory
 
 ## what's programming?
