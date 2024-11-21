@@ -74,7 +74,7 @@ The :bangbang: mark is for important or desirable topics
 
 8.  Generics in C# :bangbang:
 
-9.  Lamdas and funtions as variables
+9.  Lambdas and funtions as variables
 
 10. new features in C#
 
