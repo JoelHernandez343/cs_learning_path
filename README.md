@@ -74,7 +74,9 @@ The :bangbang: mark is for important or desirable topics
 
 8.  Generics in C# :bangbang:
 
-9.  new features in C#
+9.  Lamdas and funtions as variables
+
+10. new features in C#
 
     -   pattern matching
     -   switch expression
@@ -82,7 +84,7 @@ The :bangbang: mark is for important or desirable topics
     -   primary constructors
     -   collection expressions
 
-10. dependency injection :bangbang:
+11. dependency injection :bangbang:
 
 ## data structures (C & C#) :bangbang:
 
